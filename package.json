@@ -1,0 +1,31 @@
+{
+  "name": "social-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "*",
+    "mongoose": "*",
+    "bcryptjs": "*",
+    "cors": "*",
+    "jsonwebtoken": "*",
+    "body-parser": "*",
+    "passport": "*",
+    "passport-jwt": "*",
+    "bootstrap": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EhabElSherif/Social-Blog.git"
+  },
+  "author": "Ehab El-Sherif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EhabElSherif/Social-Blog/issues"
+  },
+  "homepage": "https://github.com/EhabElSherif/Social-Blog#readme"
+}
